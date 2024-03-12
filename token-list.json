@@ -1,0 +1,25 @@
+{
+  "name": "BRC20 BLOC",
+  "logoURI": "https://raw.githubusercontent.com/mtanxchen/brc20-bloc/main/icon.png",
+  "keywords": [
+      "BBLOC",
+      "BLOC",
+      "BLOCK"
+    ],
+    "timestamp": "2024-03-12T08:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 56,
+      "address": "0xb47fA9487cf0de3252979A6c9Ba7B841CBB516dF",
+      "name": "BRC20 BLOC",
+      "symbol": "BBLOC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mtanxchen/brc20-bloc/main/icon.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
